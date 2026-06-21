@@ -1,2 +1,3 @@
 # practice_demo
-This is my first practice repository
+This is my first practice repository.
+Auhor - Ganesh kumar pankaj
